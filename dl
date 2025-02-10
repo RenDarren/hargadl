@@ -1,2 +1,2 @@
 const BUY = 3000
-cont SELL = 3200
+const SELL = 3200
